@@ -10,6 +10,8 @@ Replicar os exemplos dados pelo prof. dr. Rafael de Freitas Souza, na disciplina
 ## Bibliotecas utilizadas
 ### Geopandas
 Foi a principal biblioteca utilizada na análise espacial em python e é interessante, pois deriva do pandas, sendo possível a utilização de todos os métodos do panddas para a manipulação dos datasets, adicionando à biblioteca original a capacidade de se manipular dados espaciais.
+### Pyreadr e Rddata
+Foram usadas para a imporação de arquivos .Rdata. Dependendo da necessidade de usar encoddind nos dados, vc pode usar uma ou outra biblioteca.
 
 ## Observações
 - Os notebooks contém os comandos em python, sem as saídas, já que alguns outputs, como gráficos interativos, levariam o tamanho do arquivo a mais de 100mb, causando alguns problemas com o Github.
