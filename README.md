@@ -8,6 +8,9 @@ Replicar os exemplos dados pelo prof. dr. Rafael de Freitas Souza, na disciplina
 - No final de cada notebook, foram incluídos links para referências utilizadas na tentativa de se replicar os scripts em R.
 
 ## Bibliotecas utilizadas
+### Pandas e Matplotlib
+Bibliotecas usuais para data wrangling e visualization.
+
 ### Geopandas
 Foi a principal biblioteca utilizada na análise espacial em python e é interessante, pois deriva do pandas, sendo possível a utilização de todos os métodos do panddas para a manipulação dos datasets, adicionando à biblioteca original a capacidade de se manipular dados espaciais.
 ### Pyreadr e Rddata
