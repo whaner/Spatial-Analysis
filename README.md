@@ -1,6 +1,6 @@
 # Spatial Analysis in python
 ## Objetivo
-Replicar os exemplos dados pelo prof. dr. Rafael de Freitas Souza, na disciplina de Análise Espacial, do MBA em DSA, da USP-ESALQ.
+Replicar, em Python, os exemplos dados pelo prof. dr. Rafael de Freitas Souza, em R, na disciplina de Análise Espacial, do MBA em DSA, da USP-ESALQ.
 ## Estrutura
 - Na pasta shapefiles estão os arquivos utilizados nos notebooks.
 - Cada notebook contém uma parte da aula e, a medida do possível, tentei seguir a sequência utilizada pelo professor, inclusive com as saídas.
